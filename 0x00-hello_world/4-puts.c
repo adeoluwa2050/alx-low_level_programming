@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - printi!ng
+* main-printing
 *
 * Description: using the main function
 * 
