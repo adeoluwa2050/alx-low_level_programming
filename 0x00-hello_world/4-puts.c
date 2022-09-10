@@ -4,7 +4,7 @@
 * main-printing
 *
 * Description: using the main function
-* 
+*
 * Return: Always 0 (successful)
 */
 int main(void)
