@@ -1,4 +1,3 @@
-vi 4-isalpha.c
 #include "main.h"
 #include <ctype.h>
 
