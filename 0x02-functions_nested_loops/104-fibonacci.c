@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * numLength - returns the lenth of string
  * @num : operand number
@@ -60,4 +59,5 @@ int main(void)
 		i++;
 	}
 	return (0);
+}
 
